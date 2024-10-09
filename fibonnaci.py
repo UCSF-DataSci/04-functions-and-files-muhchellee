@@ -27,7 +27,7 @@ def generate_fibonacci(limit):
     
     return fibonacci_nums
 
-#generate_fibonacci(100)
+
 if __name__ == "__main__":
     # setting up command-line arguments
     parser = argparse.ArgumentParser()
